@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-         프로젝트 초기화 - UI를 구성해볼게요. 수정 사항 발생
+         Test Branch에 수정사항이 발생했어요.
       </div>
     </>
   )
