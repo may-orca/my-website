@@ -10,7 +10,6 @@ function App() {
     <>
       <div>
          Test Branch에 수정사항이 발생했어요.
-         넵 수정했습니다.
       </div>
     </>
   )
